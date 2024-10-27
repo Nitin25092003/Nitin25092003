@@ -1,3 +1,4 @@
+[!Masterhead].(https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif).(https//nitin25092003.io)
 <h1 align="center">Hi 👋, I'm Nitin Bari</h1>
 <h3 align="center">A passionate Software Enginner from India</h3>
 <img align="right"  alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
