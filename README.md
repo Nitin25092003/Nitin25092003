@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Nitin25092003/Nitin25092003/blob/main/image1.gif)
 <h1 align="center">Hi 👋, I'm Nitin Bari</h1>
 <h3 align="center">A passionate Software Enginner from India</h3>
 <img align="right"  alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
